@@ -1,4 +1,4 @@
-Gustavo Sakamoto de Toledo (detol001)
+Gustavo Sakamoto de Toledo
 
 Description:
         The program was designed to take input values from a user and perform operations on the data. The user can run the program in two modes, debug and no-debug
